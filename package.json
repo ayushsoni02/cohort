@@ -4,6 +4,7 @@
     "chalk": "^5.3.0",
     "commander": "^12.1.0",
     "express": "^4.21.0",
-    "jsonwebtoken": "^9.0.2"
+    "jsonwebtoken": "^9.0.2",
+    "typescript": "^5.7.2"
   }
 }
