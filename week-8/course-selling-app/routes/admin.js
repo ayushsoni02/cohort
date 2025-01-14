@@ -15,7 +15,8 @@ adminRouter.post("/signup", async function (req, res) {
   // const { email, password, firstName, lastName } = req.body;
 
   // const requiredBody = z.object({
-  //   email:z.string().min(3).max(100).email(), 
+  //   email:z.string().min(3).max(100
+  // ).email(), 
   //   firstName:z.string().min(3).max(10),
   //   lastName:z.string().min(3).max(10),
   //   password:z.string()
