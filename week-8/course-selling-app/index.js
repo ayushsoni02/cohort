@@ -23,6 +23,8 @@ app.use("/api/v1/admin",adminRouter);
 // courseRouter(app);
 
 
+
+
  async function main(){
     await mongoose.connect(process.env.MONGO_URL);
     app.listen(3000);
