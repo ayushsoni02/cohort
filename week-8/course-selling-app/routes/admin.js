@@ -161,11 +161,3 @@ module.exports = {
 }
 
 
-// harshita's 
-// "courseId": "66f8cf2706b062ecf9396998"
-
-// harshita's token
-// eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2ZjcxMTVlZWZhYzFiZGNiZjQzOTI3OSIsImlhdCI6MTcyNzU4MTg2NH0.jWbOXeRCCDmjCXxvG7pKco9oJeefeAWg_0F0vN0mGiE
-
-// aditi's token
-// eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2ZjhkNmU0NjBkZWRlZGM2M2EwOGY1NSIsImlhdCI6MTcyNzU4NDAxNn0.YIEGMPwCqPIz3VkWQNdKBfxWuQxHdHYsypu6NY0YWms
